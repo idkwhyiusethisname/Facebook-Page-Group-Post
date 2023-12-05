@@ -82,6 +82,3 @@ if choise == 2:
     postpage = api.post_page(data)
     print(postpage)
     os.system("pause")
-        
-        #curl -i -X GET \
- #"https://graph.facebook.com/v18.0/me?access_token=EAAJc4xlV6z4BO4PRg6AnTkzvJxVaErjbZBZBBKZB7nOw1mK6s2ZCadnu7hoQCAHyGQKDeUyZAVEaIY3z885ZCejNAWfdB9TaNVawDTdLa3nWHEn7JRVYA8CgsDqSPZAB1AfKSw9oRi5QJKZAjGMZB7TT18ySSWzIK1qvYlZColfWNDvMtZAdxwJUGFH4rbg4Wkf9dJVvAxfPcPURh0s6ldgu5oJqe8ZD"
